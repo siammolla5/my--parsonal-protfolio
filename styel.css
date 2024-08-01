@@ -109,6 +109,7 @@ width: 40%;
  .lastimg{
     height: 30px;
     width: 30px;
+    color: aliceblue;
     
    
  }
@@ -116,5 +117,6 @@ width: 40%;
     text-align: center;
     color: white;
     display: flex;
+    justify-content: center;
  }
 
