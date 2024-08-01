@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+     padding:0;
+     font-family: Arial, Helvetica, sans-serif;
+     background-image: url(./images.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.siammolla{
+    color: orange;
+}
+.self-box{
+    display: flex;
+}
+.fstperagrph{
+ 
+   padding-left: 20px;
+
+}
+.scend-img{
+   width: 5px;
+   padding-right: 5px;
+}
+.scend-div{
+   display: flex;
+}
+
