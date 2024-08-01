@@ -21,7 +21,100 @@ body{
    width: 5px;
    padding-right: 5px;
 }
-.scend-div{
-   display: flex;
+
+
+.link-button{
+    text-decoration: none;
+    background-color: chartreuse;
+    color: darkred;
+    padding: 3px 12px;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: 900;
 }
+.dreem-area{
+    display: flex;
+   
+}
+.scend-img{
+width: 40%;
+}
+.self-boxscend{
+    width: 60%;
+}
+.welcom{
+    color: red;
+}
+.preagruph{
+    color: aqua;
+
+}
+.bigdream{
+    color:rgb(255, 7, 238);
+}
+.secend-peragrph{
+    color: yellowgreen;
+}
+.link2{
+    background-color: darkkhaki;
+    color: rgb(255, 2, 91);
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px;
+}
+.Experiences-box{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+ .singeladd{
+    padding: 5px;
+    width: 40%;
+    box-shadow:10px 10px 40px red ;
+    border-radius: 30px;
+    margin: 10px;
+ } 
+ .experience{
+    padding-left: 20px;
+    color: aliceblue;
+ } 
+ .box1{
+    color: aliceblue;
+ } 
+
+ .box2{
+    color:orange ;
+ }
+ .class{
+    color: white;
+ }
+ .jpeg{
+    height: 30px;
+    width: 30px;
+
+ }
+ .menuber{
+    background-color: rgb(62, 91, 134);
+    color: white; 
+ }
+ .fhinesh{
+    height: 30px;
+    width: 30px;
+ }
+ .lastfhinesh{
+    text-align: center;
+    color: azure;
+ }
+ .lastimg{
+    height: 30px;
+    width: 30px;
+    
+   
+ }
+ .lastdiv{
+    text-align: center;
+    color: white;
+    display: flex;
+ }
 
